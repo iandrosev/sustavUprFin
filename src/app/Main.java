@@ -99,7 +99,7 @@ public class Main {
 
 
         int indeks= 3;
-        System.out.println(users[indeks].toString() + "\n");
+        System.out.println(users[indeks].toString());
         System.out.println(bookings[indeks].toString());
         System.out.println(records[indeks].toString());
         System.out.println(items[indeks].toString());
